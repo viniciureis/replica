@@ -1,0 +1,121 @@
+@charset "UTF-8";
+  body {
+  margin: 0;
+  display: block;
+  }
+    .congresso {
+  font-size: 20px;
+ padding-left: 15%;
+ display: block;
+}
+.buttom {
+  margin-left: 150px;
+  margin-top: 30px;
+  display: block;
+}
+.sobre {
+  
+  margin-bottom: 00px;
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: -0px;
+  display: block;
+ 
+}
+.bac {
+  background-image: url(imgs/656aee4da269d77bee2c02bb81fc0c88.png);
+  background-repeat: no-repeat;
+  display: block;
+  
+  background-size: 100%;
+  height: 20em;
+ 
+  
+}
+
+
+
+
+.dados1{width: 100%;padding-left: 5%; display: block;}
+
+
+.ins {
+  background-color: #fb0101f1;
+  width: 100%;
+
+  margin-top: -20px;
+  display: block;
+  color: white;
+}
+
+
+.publico {
+  font-size: 13px;
+  padding-right: 50%;
+  display: block;
+}
+
+
+
+.inscr {
+  padding-left: 10%;
+  padding-right: 10%;
+  display: block;
+}
+.viv {
+  margin-top: -120px;
+  padding-bottom: 30px;
+  display: block;
+}
+.img {
+  width: 40%;
+  padding-left: 56%;
+  display: block;
+}
+.tivo {
+  margin-top: -150px;
+  padding-left: 5%;
+  font-size: 10px;
+}
+
+.it {
+  margin-top: -20px;
+  background-color: red;
+  border-color: red;
+  border-radius: 10px;
+  color: white;
+  display: block;
+}
+.agora {
+ margin-left: 25%;
+  margin-bottom: 10px;
+  background-color: #12b7b7f1;
+  border-color: #12b7b7f1;
+  border-radius: 5px;
+  font-size: 20px;
+
+  display: block;
+}
+.coli {
+  background-color: #106e6ef1;
+  width: 100%;
+  display: block;
+
+}
+
+.img1{width: 45%; margin-top: -79%;padding-left: 50%;
+  }
+
+.noses{width: 90%;display: block;}
+
+.heder{width: 90%;display: block;}
+
+.omo{padding-left: 5% ; padding-right: 39%;
+padding-bottom: 5%;}
+
+.img2{width: 60%;padding-left: 96%;margin-top: -10em;
+  display: block;
+}
+.liy{padding-left: 5%;padding-right: 45%;padding-bottom: 5%;padding-top: 5%;
+  display: block;}
